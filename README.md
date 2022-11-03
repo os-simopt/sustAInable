@@ -9,16 +9,16 @@ Die Experten und Expertinnen für KI und Erneuerbare Energien am ZSW haben in zw
 Im zweiten Teil Veranstaltungsreihe rückt die praktische Umsetzung in den Fokus. 
 In mehreren Coding-Workshops werden konkrete Problemstellungen in der Datenaufbereitung, dem Training von KI-Modellen und der Auswertung thematisiert.
 
-### Workshops 💻
+### Workshops vom 27.10.2022 💻
 
 ---
 
 **KI-Lab.EE Step-by-Step:**
-Workshop zur Einführung in das KI-Lab.EE Auto-ML Tool. Schritt für Schritt wird Ihnen hier erklärt, wie Sie die No-Code Plattform nutzen können, um KI einfach anzuwenden.
-Anhand eigener Daten oder Beispieldaten können die Teilnehmende das Gelernte im Workshop direkt selbst umsetzen und Fragen stellen.
+Workshop zur Einführung in das KI-Lab.EE Auto-ML Tool. Schritt für Schritt wurde hier erklärt, wie die No-Code Plattform genutzt werden kann, um KI einfach anzuwenden.
+Anhand eigener Daten oder Beispieldaten konnten die Teilnehmende das Gelernte im Workshop direkt selbst umsetzen und Fragen stellen.
 
 **KI-Lab.EE Deep-Dive:**
-Workshop für eine fortgeschrittene Nutzung des KI-Lab.EE Auto-ML Tools. Anhand verschiedener Szenarien und Datensätze wird erläutert, welche Vorteile die Features "Featureselection", "Balancing" "Scaling" und "Outlierremoval" für KI-Anwendungen bieten können und wie diese in der No-Code Plattform einfach anwendbar sind.
+Workshop für eine fortgeschrittene Nutzung des KI-Lab.EE Auto-ML Tools. Anhand verschiedener Szenarien und Datensätze wurde erläutert, welche Vorteile die Features "Featureselection", "Balancing" "Scaling" und "Outlierremoval" für KI-Anwendungen bieten können und wie diese in der No-Code Plattform einfach anwendbar sind.
 
 ℹ️ Tutorials bald verfügbar auf https://kilab-ee.zsw-bw.de/
 
