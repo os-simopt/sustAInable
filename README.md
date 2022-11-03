@@ -6,8 +6,8 @@ Wie kann künstliche Intelligenz (KI) in Unternehmen zur besseren Einsparung von
 Welches Potenzial hat KI für die Energiewende? 
 Die Experten und Expertinnen für KI und Erneuerbare Energien am ZSW haben in zwei Veranstaltungen Antworten auf diese Fragen gegeben.
 
-Im zweiten Teil Veranstaltungsreihe rückt die praktische Umsetzung in den Fokus. 
-In mehreren Coding-Workshops werden konkrete Problemstellungen in der Datenaufbereitung, dem Training von KI-Modellen und der Auswertung thematisiert.
+Im zweiten Teil der Veranstaltungsreihe rückte die praktische Umsetzung in den Fokus. 
+In mehreren Coding-Workshops wurden konkrete Problemstellungen in der Datenaufbereitung, dem Training von KI-Modellen und der Auswertung thematisiert.
 
 ### Workshops vom 27.10.2022 💻
 
